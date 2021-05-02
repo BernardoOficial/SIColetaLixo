@@ -1,2 +1,3 @@
 # SIColetaLixo
-Trabalho da faculdade para criação de um sistema para um empresa de coleta seletiva
+
+Elaboração e criação de um sistema de coleta seletiva.
